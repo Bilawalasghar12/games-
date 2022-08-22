@@ -1,3 +1,4 @@
-# new_proj
+# Game App for Android / iOS
 
-A new Flutter project.
+## Short description
+sadadssad
